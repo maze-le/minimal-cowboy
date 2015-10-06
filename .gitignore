@@ -1,0 +1,10 @@
+deps
+priv
+ebin
+
+.rebar
+.eunit
+.idea
+
+*~
+*.dump
